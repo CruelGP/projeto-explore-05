@@ -3,6 +3,9 @@
 padding: 0;
 box-sizing: border-box;}
 
+:root
+{font-size: 62.5%;}
+
 body
 {font-family: 'Source Serif 4', serif;
 padding: 53px 37px;
@@ -12,3 +15,20 @@ display: flex;
 color: #A54328;
 background-color: #FFFFFF;}
 
+h1
+{font-size: 28px;
+font-weight: bold;}
+
+img
+{padding: 47px 0 47px 0;}
+
+p
+{font-size: 14px;}
+
+h2
+{font-size: 22px;
+font-weight: bold;
+padding: 36px 0 36px 0;}
+
+.ingredients
+{font-size: 14px;}
